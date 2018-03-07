@@ -1,0 +1,9 @@
+[user]
+	name = Drew Keller
+	email = dkeller@captechconsulting.com
+
+[core]
+	editor = vim
+
+[color]
+	ui = never

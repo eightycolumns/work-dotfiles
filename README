@@ -1,0 +1,17 @@
+WORK DOTFILES
+
+  My work dotfiles.
+
+INSTALL
+
+  make
+
+  or
+
+  make install
+
+  Remember to source ~/.bash_profile after install.
+
+UNINSTALL
+
+  make uninstall
